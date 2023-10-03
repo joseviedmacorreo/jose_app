@@ -55,7 +55,7 @@
           </div>
 
           <div class="pull-right">
-            <h6><a href="#help!!!" class="link footer-link">Need Help?</a></h6>
+            <h6><a href="https://biotechaltapatagonia.com" class="link footer-link">Need Help?</a></h6>
           </div>
         </div>
       </card>
